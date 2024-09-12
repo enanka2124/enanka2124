@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enanka2124
+- 👋 Hi, I’m Enanka Nandi
 - # 💫 About Me:
 Programmer
 
